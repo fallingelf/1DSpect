@@ -15,8 +15,8 @@ the original fits file of arc frame of Fe/Ar .
 laco_im.cl
 ---
 cosmic ray rejection script for single images by Pieter van Dokkum, April 2001.
-# reference: van Dokkum 2001, PASP, 113, 1420
-# info at http://www.astro.yale.edu/dokkum/lacosmic/
+reference: van Dokkum 2001, PASP, 113, 1420
+info at http://www.astro.yale.edu/dokkum/lacosmic/
 
 stand_stars
 ---
