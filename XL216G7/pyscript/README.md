@@ -2,11 +2,11 @@ This folder contains the following files:
 
 G7_packit.py
 ---
-for packing the results.
+for packing the results well.
 
 G7_showit.py
 ---
-for show the results
+to display the results.
 
 G7_treat.py
 ---
