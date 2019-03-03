@@ -163,8 +163,12 @@ def check_log(path_log,obs_date,path_std):
 
 
 
-Path_Folder_script='/home/wqs/IRAF/rfscript/'          #the folder containing the suppied files
-Path_Folder_Data='/home/wqs/IRAF/spectrum/'            #the folder containing the data folder
+#all you need to revise to suit your mechine.
+#--------------------------------------------------------------------
+Path_Folder_script='/home/host-name/IRAF/rfscript/'
+Path_Folder_Data='/home/host-name/IRAF/spectrum/'
+#--------------------------------------------------------------------
+
 
 Gain=1.41;Ron=4.64
 i=0;Path_Folder_Obj=Path_Folder_Data+os.listdir(Path_Folder_Data)[i]      #find the name of the first folder
