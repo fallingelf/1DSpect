@@ -1,8 +1,12 @@
 from pyraf import iraf
 import os
 
+#all you need to revise to suit your mechine.
+#--------------------------------------------------------------------
 Path_Folder_script='/home/host-name/IRAF/rfscript/'
 Path_Folder_Data='/home/host-name/IRAF/spectrum/'
+#--------------------------------------------------------------------
+
 
 i=0;Path_Folder_Obj=Path_Folder_Data+os.listdir(Path_Folder_Data)[i]
 
