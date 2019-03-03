@@ -85,8 +85,11 @@ def write_list2file(file_name,list_name):
         f.close()
  
 
-Path_Folder_script='/home/wqs/IRAF/rfscript/'
-Path_Folder_Data='/home/wqs/IRAF/spectrum/'
+#all you need to revise to suit your mechine.
+#--------------------------------------------------------------------
+Path_Folder_script='/home/host-name/IRAF/rfscript/'
+Path_Folder_Data='/home/host-name/IRAF/spectrum/'
+#--------------------------------------------------------------------
 
 i=0;Path_Folder_Obj=Path_Folder_Data+os.listdir(Path_Folder_Data)[i]
 os.chdir(Path_Folder_Obj);os.system('cd '+Path_Folder_Obj)
