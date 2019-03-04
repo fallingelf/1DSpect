@@ -54,7 +54,7 @@ Example
 -------
 a).The revised version of context of the Log file.
 
-| |    Files    |  Obj   |   BTime   |  Exp.(s) |    R.A.     |     Dec.     | Epoch |     Notes     |
+|     Files     |  Obj   |   BTime   |  Exp.(s) |    R.A.     |     Dec.     | Epoch |     Notes     |
 | --------------| :----: | :-------: | :------: | :---------: | :----------: | :---: | :-----------: | :---: |
 |20190227001-5  |bias    | 17:47:16  |0                                                                      |                                                 
 |20190227011-15 |flat    | 17:47:40  |150                                            |G7+S2.3+385LP  |   d   | 
