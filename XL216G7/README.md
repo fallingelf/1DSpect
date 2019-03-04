@@ -71,30 +71,9 @@ a).The revised version of context of the Log file.
 
 
 | | Files | Obj | BTime | Exp.(s)  | R.A.  | Dec. | Epoch  | Notes |
-| --------|:---: |:--: | :----: | :----: | :---: | :-------: | :------: | :------: |
+
 | 20190227001-5| bias  |   17:47:16     | 0.9.8  | 0.9.6   | 0.9.7 |   0.9.8   | 0.9.7 | 0.9.7 |
-| [readline](http://thrysoee.dk/editline/)/[editline](http://thrysoee.dk/editline/)       | + (r)  |    + (r)   |  + (r) | + (r)   | + (r) |   + (r)   | + (r) |   +   |
-| [\[n\]curses](https://www.gnu.org/software/ncurses/)                                    | + (n)  |    + (n)   |  + (n) | + (n)   |   +   |   + (n)   | + (n) | + (n) |
-| [zlib](https://zlib.net/)                                                               |   +    |    +       |   +    | +       |   +   |    +      |   +   |   +   |
-| [GSL](https://www.gnu.org/software/gsl/)                                                |   +    |    +       |   +    | +       |   +   |    +      |   +   |   +   |
-| [plplot](https://plplot.sourceforge.net)                                                |   +    |    +       |   +    | +       |   +   |    +      |   +   |   +   |
-| [OpenMP](http://www.openmp.org/)                                                        |   +    |    +       |   +    | +       |   +   |    +      |   -   |   +   |
-| [Magick++](https://imagemagick.org/) / [GraphicsMagick](http://graphicsmagick.org/)     | + (G)  |  + (G)     | + (G)  | + (G/I) |   -   |  + (G)    | + (G) | + (G) |
-| [wxWidgets](https://www.wxwidgets.org/)                                                 |   +    |    +       |   +    | +       |   +   |    +      |   -   |   -   |
-| [netCDF](https://www.unidata.ucar.edu/software/netcdf/)                                 |   +    |    +       |   +    | +       |   +   |    +      |   +   |   +   |
-| [HDF4](https://support.hdfgroup.org/products/hdf4/)                                     |   +    |    +       |   +    | +       |   -   |    -      |   -   |   +   |
-| [HDF5](https://support.hdfgroup.org/HDF5/)                                              |   +    |    +       |   +    | +       |   -   |    +      |   +   |   +   |
-| [FFTW](http://www.fftw.org/)                                                            |   +    |    +       |   +    | +       |   +   |    +      |   +   |   +   |
-| [PROJ.4](http://proj4.org/)                                                             |   -    |    -       |   -    | +       |   -   |    +      |   -   |   +   |
-| [GSHHG](http://www.soest.hawaii.edu/wessel/gshhg/)                                      |   -    |    -       |   -    | +       |   -   |    -      |   -   |   +   |
-| [MPICH](https://www.mpich.org/)                                                         |   -    |    -       |   -    | -       |   -   |    +      |   -   |   +   |
-| [Python](https://www.python.org/)/[NumPy](http://www.numpy.org/)                        |   +    |    +       |   +    | +       |   +   |    +      |   -   |   +   |
-| [udunits](https://www.unidata.ucar.edu/software/udunits/)                               |   +    |    +       |   +    | +       |   +   |    +      |   +   |   +   |
-| [Eigen](https://eigen.tuxfamily.org/)                                                   |   +    |    +       |   +    | +       |   +   |    +      |   +   |   +   |
-| [pslib](http://pslib.sourceforge.net/)                                                  |   +    |    +       |   +    | +       |   +   |    +      |   -   |   +   |
-| [ecCodes](https://software.ecmwf.int/wiki/display/ECC/ecCodes+Home)/[GRIB](https://software.ecmwf.int/wiki/display/GRIB)                                    |   +    |    +       |   +    | +       |   +   |    +      |   -   |   +   |
-| [GLPK](https://www.gnu.org/software/glpk/)                                              |   -    |    -       |   -    | -       |   -   |    +      |   -   |   -   |
-| [Python](https://www.python.org/) module                                                | + (python2-gdl) | + ([python-gdl](https://packages.debian.org/python-gdl)) | + ([python-gdl](https://packages.ubuntu.com/python-gdl)) | +       |   -   |    -      |   -   |   -   |
+| 20190227058-62| + (BIAS) |30:01:02 | + (0 ) | +       |   -   |    -      |   -   |   -   |
 
 
 
