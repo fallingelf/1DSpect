@@ -52,7 +52,7 @@ reading problem;
 
 Example
 -------
-a).The revised version of context of the Log file.
+a).A snapshot of the revised version of the Log file.
 
 |     Files     |  Obj   |   BTime   |  Exp.(s) |    R.A.     |     Dec.     | Epoch |     Notes     |       |
 | --------------| :----: | :-------: | :------: | :---------: | :----------: | :---: | :-----------: | :---: |
