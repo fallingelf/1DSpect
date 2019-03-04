@@ -1,22 +1,12 @@
 Explanation
 -----------
-These scripts are used for spectra obtained using 216 cm telescope with instrument of G7 grism.
+These scripts are used for procssing the spectra obtained using 216 cm telescope with instrument of G7 grism.
 
 Instrument
 ----------
 1).Install conda and set up an envirenment for example mypyraf containing pyiraf, iraf-all;
 
-2).Revise two variables, 'Path_Folder_script' and 'Path_Folder_Data', in each Python script;
-
-;--------------------------------------------------------------------------------------------------
-
-G7_packit.py    #Lines 90-91
-
-G7_showit.py    #Lines 6-7
-
-G7_treat.py     #Lines 168-169
-
-；--------------------------------------------------------------------------------------------------
+2).Revise two variables, 'Path_Folder_script' and 'Path_Folder_Data', in each Python script, for example you should replace the vaule '/home/host-name/IRAF/rfscript' in the lines 90-91 of G7_packit.py with the directory of the folder 'rfscript',
 
 3).create a new executable file named 'g7' in direction /usr/local/bin containing the following context:
 
