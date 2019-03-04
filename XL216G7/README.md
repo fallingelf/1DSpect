@@ -70,9 +70,9 @@ a).The revised version of context of the Log file.
 |20190227058-62 |BIAS         |30:01:02     |0                                                                       |     
 
 
-| | [Fedora](https://src.fedoraproject.org/rpms/gdl) | [Debian](https://packages.debian.org/sid/gnudatalanguage) | [Ubuntu](http://packages.ubuntu.com/gnudatalanguage) | [Gentoo](https://packages.gentoo.org/packages/dev-lang/gdl) | [Arch](https://aur.archlinux.org/packages/gnudatalanguage/)  | [FreeBSD](https://svnweb.freebsd.org/ports/head/science/gnudatalanguage/) | [Homebrew](https://github.com/brewsci/homebrew-science/blob/master/Formula/gnudatalanguage.rb) | [Macports](https://github.com/macports/macports-ports/tree/master/math/gnudatalanguage) |
-| --------------------------------------------------------------------------------------- | :----: | :--------: | :----: | :----: | :---: | :-------: | :------: | :------: |
-| latest release                                                                          | 0.9.8  |   0.9.8    | 0.9.8  | 0.9.6   | 0.9.7 |   0.9.8   | 0.9.7 | 0.9.7 |
+| | Files | Obj | BTime | Exp.(s)  | R.A.  | Dec. | Epoch  | Notes |
+| --------|:---: |:--: | :----: | :----: | :---: | :-------: | :------: | :------: |
+| 20190227001-5| bias  |   17:47:16     | 0.9.8  | 0.9.6   | 0.9.7 |   0.9.8   | 0.9.7 | 0.9.7 |
 | [readline](http://thrysoee.dk/editline/)/[editline](http://thrysoee.dk/editline/)       | + (r)  |    + (r)   |  + (r) | + (r)   | + (r) |   + (r)   | + (r) |   +   |
 | [\[n\]curses](https://www.gnu.org/software/ncurses/)                                    | + (n)  |    + (n)   |  + (n) | + (n)   |   +   |   + (n)   | + (n) | + (n) |
 | [zlib](https://zlib.net/)                                                               |   +    |    +       |   +    | +       |   +   |    +      |   +   |   +   |
