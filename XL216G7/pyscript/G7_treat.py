@@ -285,7 +285,7 @@ apall_b_upper=60
 apall_lower=-1*apall_upper
 apall_b_sample=str(-1*apall_b_upper)+':'+str(apall_lower)+','+str(apall_upper)+':'+str(apall_b_upper)
 
-[iraf.twodspec.apex.apall(image_spectrum[j],1,output=image_spectrum[j].replace('.fit','.ms.fits'),format='multispec',inter=0,lower=apall_lower,upper=apall_upper,b_sample=apall_b_sample,b_nave=-1000,t_func='legendre',t_order=5,back='fit') for j in range(len(image_spectrum))]
+[iraf.twodspec.apex.apall(image_spectrum[j],1,output=image_spectrum[j].replace('.fit','.ms.fits'),format='multispec',inter=0,lower=apall_lower,upper=apall_upper,b_sample=apall_b_sample,b_nave=-100,width=12,t_func='spline3',t_order=3,t_niter=1,back='fit') for j in range(len(image_spectrum))]
 
 rewind=''
 while rewind !='w':
